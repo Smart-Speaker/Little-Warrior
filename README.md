@@ -35,7 +35,7 @@ Jump - Spacebar
 Attack - Mouse Button 0                                                                                                                                                          
 Interact - E
 
-### Xbox Controller Movement (Menu Controll Not Supported)
+### Xbox Controller Movement (Menu Control Not Supported)
 
 Move Left/Right - Left Joystick                                                                                                                                                 
 Jump - A                                                                                                                                                                        
